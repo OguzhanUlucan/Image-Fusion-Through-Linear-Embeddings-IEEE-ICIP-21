@@ -2,14 +2,14 @@
 
 This is the implementation for *[Image Fusion Through Linear Embeddings](https://ieeexplore.ieee.org/abstract/document/9506168)*, [Oguzhan Ulucan](https://www.researchgate.net/profile/Oguzhan_Ulucan), [Diclehan Karakaya](https://www.researchgate.net/profile/Diclehan_Karakaya), [Mehmet Turkan](http://homes.ieu.edu.tr/mehmetturkan/), In 2021 IEEE International Conference on Image Processing (ICIP) (pp. 1784-1788). IEEE.
 
+<img src="https://github.com/OguzhanUlucan/Image-Fusion-Through-Linear-Embeddings-IEEE-ICIP-21/blob/main/Paper/Image%20Fusion-1.png">
+
 
 ## Abstract 
 
 *This paper proposes an effective technique for multi-exposure image fusion and visible-infrared image fusion problems. Multi-exposure fusion algorithms generally extract faulty weight maps when the input stack contains multiple and/or severely over-exposed images. To overcome this issue, an alternative method is developed for weight map characterization and refinement in addition to the perspectives of linear embeddings of images and adaptive morphological masking. This framework has then been extended to the visible and infrared image fusion problem. The comprehensive experimental comparisons demonstrate that the proposed algorithm significantly enhances the fused image quality both statistically and visually.*
 
-
-<img src="">
-
+<img src="https://github.com/OguzhanUlucan/Image-Fusion-Through-Linear-Embeddings-IEEE-ICIP-21/blob/main/Paper/block.png">
 
 ##  Prerequisites
 
@@ -47,12 +47,21 @@ IEEE Transactions on Image Processing, vol. 24,pp. 3345 - 3356, Nov.2015.
 
 Weights which are extracted via LE:
 
-<img src="">
+<img src="https://github.com/OguzhanUlucan/Image-Fusion-Through-Linear-Embeddings-IEEE-ICIP-21/blob/main/Paper/LE_weights.png">
 
 
-Fusion results of LE:
+# MEF fusion result of LE:
 
-<img src="">
+<img src="https://github.com/OguzhanUlucan/Image-Fusion-Through-Linear-Embeddings-IEEE-ICIP-21/blob/main/Paper/mef.png">
+
+<img src="https://github.com/OguzhanUlucan/Image-Fusion-Through-Linear-Embeddings-IEEE-ICIP-21/blob/main/Paper/table.png">
+
+
+# Visible+Infrared image fusion results of LE:
+
+<img src="https://github.com/OguzhanUlucan/Image-Fusion-Through-Linear-Embeddings-IEEE-ICIP-21/blob/main/Paper/vis.png">
+
+<img src="https://github.com/OguzhanUlucan/Image-Fusion-Through-Linear-Embeddings-IEEE-ICIP-21/blob/main/Paper/vis2.png">
 
 
 ## Citing this work
