@@ -60,7 +60,7 @@
 % Output:
 %         (1) Fused    : The fused image.
 %         (2) weights  : LE Weights
-%         (3) run-time : Computational Complexity of the PAS-MEF in seconds
+%         (3) run-time : Computational Complexity in seconds
 %         (4) MEF_SSIM : Statistical result of the image according to:
 % Perceptual Quality Assessment for Multi-Exposure Image Fusion,
 % Kede Ma, Kai Zeng, Zhou Wang,
