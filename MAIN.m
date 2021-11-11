@@ -36,7 +36,6 @@
 %
 % This is the implementation of Image Fusion Through Linear Embeddings, 
 % Ulucan, O., Karakaya, D., & Turkan, M. 
-% Image Fusion Through Linear Embeddings. 
 % In 2021 IEEE International Conference on Image Processing (ICIP) 
 % (pp. 1784-1788). IEEE.
 %
